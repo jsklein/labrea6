@@ -1,0 +1,4 @@
+# LaBrea6 #
+is Intrusion detection system (IDS) tarpit honeypot designed for networks based on IPv6 protocol. This project was created as a bachelor's thesis primary for the Center for Information Technology (CIV) at University of West Bohemia for security testing purposes.
+
+LaBrea6 is a low interaction honeypot. It's capable of creating a network of virtual hosts. Simulate each host's behavior so that these can attract attackers as viruses worms and other malware. Once the attacker tries to attack the virtual host it is literally sticked to it. Due to this fact the spread speed of the attacker is reduced or in the best case spreading is stopped.
